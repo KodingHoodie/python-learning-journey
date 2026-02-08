@@ -9,8 +9,6 @@
 
 msg='welcome to Python 101: Strings'
   
-msg = 'welcome to Python 101: Strings'
-
 new_msg = msg[18] + " " + msg[0:7] + " " + msg[25:29] + " " + msg[8:10] + " " + (msg[8] + msg[12] + msg[2] + msg[6] + msg[25])
 
 print(new_msg.title())
