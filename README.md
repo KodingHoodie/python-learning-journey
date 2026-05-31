@@ -4,6 +4,6 @@ Started learning Python in early 2026. Focused on automation, practical projects
 
 ### 📂 Repository Structure
 - **[/scrimba](./scrimba)** → Exercises and mini-challenges from Scrimba.
-- **[/ztm](./ztm)** → Notes, practice and projects from ZTM Python Automation Bootcamp.
+- **[/automation](./automation)** → Projects from ZTM Python Automation Bootcamp.
 
 Goal: Learn automation by building useful, real projects that solve real problems.
