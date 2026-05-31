@@ -1,3 +1,4 @@
 service_account_credentials.json
 .DS_Store
 .idea/
+.env
